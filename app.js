@@ -1,8 +1,8 @@
 const maxNum = document.querySelector("#maxNum");
 const guessNum = document.querySelector("#guessNum");
 const playBtn = document.querySelector("#playBtn");
-const result = document.querySelector("#result");
-const judge = document.querySelector("#judge");
+const result = document.querySelector("span");
+const judge = document.querySelector("span");
 
 function playBtnOnclick(e) {
   e.prevenetDefault();
