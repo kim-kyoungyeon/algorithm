@@ -8,20 +8,28 @@
   </head>
   <body>
     <h1>Random Number Game</h1>
-    <form>
-      <h2>
-        Generate a number between 0 and
-        <input type="number" min="0" id="maxNum" />
-      </h2>
-      <div id="guessNum">
-        <p>
-          Guess the number : <input type="number" min="0" />&nbsp;
-          <button id="playBtn" onClick="playBtnOnclick">Play!</button>
-        </p>
-        <span id="result" class="hidden"></span>
-        <span id="judge" class="hidden"></span>
+
+    <h2>
+      Generate a number between 0 and
+      <input type="number" min="0" id="maxNum" />
+    </h2>
+    <form id="guessNum">
+      <label>
+        Guess the number : <input type="number" min="0" />&nbsp;
+        <button id="playBtn" onClick="playBtnOnclick">Play!</button>
+      </label>
+      <div id="result" 4>
+        <span></span>
+      </div>
+      <div id="judge">
+        <span> </span>
       </div>
     </form>
     <script src="app.js"></script>
   </body>
 </html>
+<!--
+범위최댓값 <h3 class = ""><input id =""
+  form 태그내 btn 태그 클릭 -> input 내용 submit
+
+-->
