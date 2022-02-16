@@ -1,2 +1,1 @@
-# vanilla-clone-as8
-Created with CodeSandbox
+https://github.com/kim-kyoung/vanilla-clone-as8.git
