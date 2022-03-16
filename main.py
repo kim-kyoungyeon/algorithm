@@ -9,25 +9,54 @@ All this functions should check for errors, follow the comments to see all cases
 
 There should be NO ERRORS from Python in the console.
 """
+ 
+def add_to_dict(my_english_dict=[],word ="",definition="",index=0):
+  if (type(my_english_dict) != dict ):
+    print(f"You need to send a dictionary. You sent : {type(my_english_dict)}")
+  elif (my_english_dict.get(word) != definition):          print(f"You need to send a  word and a definition")
+  elif (word in my_english_dict == False):
+    my_english_dict[word] = 'word'
+    print(f"{word} has been added")
+  else:
+    print(f"{word} is already on dictionary. Won't add.")
 
-def add_to_dict():
-  pass
+   
+                                
+def get_from_dict(my_english_dict=[],word ="",definition=""):
+  if (type(my_english_dict) != dict):
+      print(f"You need to send a dictionary. You sent: {type(my_english_dict)}")
+  elif (type(definition) == None):
+    print(f"You need to send a  word to search for.")
+  elif (word not in my_english_dict):
+    print(f"{word} was not found in this dict.")
+  else: 
+    my_english_dict[word]
+    print(f"{word} : {definition}")
 
-def get_from_dict():
-  pass
-
-def update_word():
-  pass
-
-def delete_from_dict():
-  pass
+def update_word(my_english_dict=[], word ="",definition=""):
+    if (type(my_english_dict) != dict):
+      print(f"You need to send a dictionary. You sent: {type(my_english_dict)}")
+    elif (my_english_dict.get(word) == None):             
+      print(f"{word} is not on the dict. Can't update non-exsting word.")
+    else: 
+      my_english_dict[word]
+      print(f"{word} : {definition}")
+      
+def delete_from_dict(my_english_dict=[], word ="",definition=""):
+  if (type(my_english_dict) != dict):
+    print(f"You need to send a dictionary. You sent: {type(my_english_dict)}")
+  elif (word not in my_english_dict):
+    print(f"{word} is not in this dict. Won't delete.")
+  else:
+    del my_english_dict[word]
+    print(f"{word} has been deleted")
+ 
 
 # \/\/\/\/\/\/\ DO NOT TOUCH  \/\/\/\/\/\/\
 
 import os
 
 os.system('clear')
-
 
 my_english_dict = {}
 
