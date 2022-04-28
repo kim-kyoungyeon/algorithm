@@ -22,7 +22,9 @@
 - salesforce developer로 진로를 설정 - 어떤 자격 이나 spec 이필요한지 알아볼것
 - 직무를 잘 searching 하여서 지원하라는 tips
 - `git commit --amend --no-edit --date "Fri 15 Apr 2022 14:00:19 KST"` 깃 잔디 관리 하기.
+- 인적성 면접 많이 물어본다, 프로젝트 세세한것 다 확인함.
 - 연봉협상 max, 오퍼레터
+- EventLoop 질문 . 다양한 종류 대면, 화상 ,1:1 , 1:다
 
 | 체크 |     이름     | WEB-URL |   Source    |  Medium   |  Name  |   Content   |         Bityly         | 비고 | 결과 |
 | :--: | :----------: | :-----: | :---------: | :-------: | :----: | :---------: | :--------------------: | :--: | :--: |
