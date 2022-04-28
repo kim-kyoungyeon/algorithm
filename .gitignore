@@ -1,1 +1,8 @@
-weather.js
+package.json
+.vs/
+
+.bin/
+
+.obj/
+.DS_Store
+venv
