@@ -25,9 +25,13 @@ sudo installer -pkg AWSCLIV2.pkg -target /
 현재 @nmin11 님께서 올려주신방법으로 해결이 되셨을까요?
 혹시 해당 방법으로 설치가 완료되지 않았다면, 새로운 설치방법을 알려드립니다.
 
-$ sudo apt-get install awscli
-$ sudo apt install ruby
-$ wget https://aws-codedeploy-ap-northeast-2.s3.amazonaws.com/latest/install
+```
+    $ sudo apt-get install awscli
+    $ sudo apt install ruby
+    $ wget https://aws-codedeploy-ap-northeast-2.s3.amazonaws.com/latest/install
+
+```
+
 해당 방법으로도 설치가 가능합니다.
 
 답변이 되셨다면 내용을 간략하게 정리해서 코멘트를 남기고 answered를 마크해주세요 ✅

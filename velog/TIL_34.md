@@ -30,15 +30,3 @@
   `package.json` `velog 기록..`
 - 연봉협상 max, 오퍼레터 , 손코딩(백), 기술면접 2차(백), 어짜피 풀스택..
 - EventLoop 질문 . 다양한 종류 대면, 화상 ,1:1 , 1:다
-
-| 체크 |     이름     | WEB-URL |   Source    |  Medium   |  Name  |   Content   |         Bityly         | 비고 | 결과 |
-| :--: | :----------: | :-----: | :---------: | :-------: | :----: | :---------: | :--------------------: | :--: | :--: |
-| o/x  |    원티드    |    ?    |   wanted    | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |   링크드인   |    ?    |  linkedIn   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-|  o   | 코드스페이스 |    ?    |  codespace  | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |    사람인    |    ?    |   saramin   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  | 프로그래머스 |    ?    | programmers | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |   jobflex    |    ?    |   jobflex   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |    워크넷    |    ?    |   worknet   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-|  o   |   잡플래닛   |    ?    |  jobplanet  | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |     점핏     |    ?    |   jumpfit   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
