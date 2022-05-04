@@ -84,3 +84,16 @@ belongsToMany? 왜 못썼는가.. (바로 연결이 안되고 에러가 생겼�
 NExt js 꼭 성공하자
 
 [TypeORM으로 보는 마이그레이션과 N+1 문제](https://yangeok.github.io/orm/2020/11/23/typeorm-theoritical.html)
+[Python](https://yangeok.github.io/orm/2020/11/23/typeorm-theoritical.html)
+[Python-Advanced](https://www.youtube.com/watch?v=k60oT_8lyFw)
+
+# 목표
+
+- 5/8 코테 준비
+- SQLD 시험준비
+- 토익준비
+- 2시간 30분 알고리즘 아/점/저
+- 세일스 포스 사용법 익히기
+- 노마드 코더 typescript 공부 정리하기
+- 노마드 코더 graphqL 공부 정리하기
+- 이력서 계속 지원하기
