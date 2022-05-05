@@ -9,6 +9,8 @@ Nice ✌ Meet 깐부 ✋  <br>
 
   🌱 I’m currently learning **typescript, NestJS, GraphQL**
 
+  🔭 I’m currently working on **Nomad-Uber-Clone-coding** <br/>
+
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-kyoungyeon&count_bg=%2387F2EA&title_bg=%23C463EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ww3ysq)](https://velog.io/@ww3ysq)
 
