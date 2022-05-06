@@ -5,11 +5,11 @@
 Nice ✌ Meet 깐부 ✋  <br>
  
  <h1 align="center"> I'm kimkyoungyeon</h1>
-<h3 align="center">A passionate Full-stack developer from Korea</h3>
+<h3 align="center">A fearless Full-stack developer from Korea</h3>
 
   🌱 I’m currently learning **typescript, NestJS, GraphQL**
 
-  🔭 I’m currently working on **Nomad-Uber-Clone-coding** <br/>
+  🔭 I’m currently working on **Nomad-Uber-Clone-coding-Challenge** <br/>
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kim-kyoungyeon)  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-kyoungyeon&count_bg=%2387F2EA&title_bg=%23C463EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
