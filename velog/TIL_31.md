@@ -9,15 +9,15 @@
 
 - 표로 정리하라고 가이드가 있어 만들어봄
 
-| 체크 |     이름     | WEB-URL |   Source    |  Medium   |  Name  |   Content   |         Bityly         | 비고 | 결과 |
-| :--: | :----------: | :-----: | :---------: | :-------: | :----: | :---------: | :--------------------: | :--: | :--: |
-| o/x  |    원티드    |    ?    |   wanted    | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |   링크드인   |    ?    |  linkedIn   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  | 코드스페이스 |    ?    |  codespace  | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |    사람인    |    ?    |   saramin   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  | 프로그래머스 |    ?    | programmers | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |   jobflex    |    ?    |   jobflex   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
-| o/x  |    워크넷    |    ?    |   worknet   | developer | resume | application | https://bit.ly/3xOOeQs |  ?   |  ?   |
+| 체크 |     이름     | WEB-URL |   Source    |  Medium   |  Name  |   Content   | Bityly | 비고 | 결과 |
+| :--: | :----------: | :-----: | :---------: | :-------: | :----: | :---------: | :----: | :--: | :--: |
+| o/x  |    원티드    |    ?    |   wanted    | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  |   링크드인   |    ?    |  linkedIn   | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  | 코드스페이스 |    ?    |  codespace  | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  |    사람인    |    ?    |   saramin   | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  | 프로그래머스 |    ?    | programmers | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  |   jobflex    |    ?    |   jobflex   | developer | resume | application |   X    |  ?   |  ?   |
+| o/x  |    워크넷    |    ?    |   worknet   | developer | resume | application |   X    |  ?   |  ?   |
 
 오늘 목표 했으나 못한 일
 
