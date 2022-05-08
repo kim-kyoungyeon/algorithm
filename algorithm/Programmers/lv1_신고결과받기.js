@@ -1,8 +1,5 @@
-//내코드
-
-//reference code 입니다.
 function solution(id_list, report, k) {
-  let counts = new Map(); //신고 횟수를 세는 변수
+  let counts = new Map(); //신고 횟수를 세는 변수 // 객체
   //신고한 reprot를 합산함.
   let reports = [...new Set(report)].map((a) => {
     return a.split(" ");
