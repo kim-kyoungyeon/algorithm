@@ -19,7 +19,7 @@ Nice ✌ Meet 깐부 ✋  <br>
 <p>IF you click, link to <i> My VELOG!</i>(ver.KOR) </p>
 </a>
   <li><a href =https://velog.io/@ww3ysq/series/TIE> [TIE] </a></li>
-<li><a href = https://velog.io/@ww3ysq/FinalTeamprojectQA-2>[Q&A] </a></li> 
+<li><a href = https://velog.io/@ww3ysq/series/FinalProject>[Q&A] </a></li> 
 <li><a href =https://velog.io/@ww3ysq/series/TIL> [TIL]</a></li> 
  
 </center>
