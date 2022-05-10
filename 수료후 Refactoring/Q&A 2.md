@@ -31,3 +31,5 @@ _원인분석_
 
 - accessToken 재발급 요청시 refresh token을 함께 재발급해주고, 동시에 데이터베이스에 user용 refresh token을 저장.
 - 클라이언트쪽에서 refreshtoken 사용 -> db refresh token 비교해 유효성 검사 실시
+
+> https://velog.io/@ww3ysq/FinalTeamprojectQA-2
