@@ -7,7 +7,6 @@ node/
 .obj/
 .DS_Store
 venv
-img/
 node_modules/**
 !node_modules/axios/
 !node_modules/axios/lib/
