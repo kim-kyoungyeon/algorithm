@@ -1,8 +1,20 @@
-package.json
+
 .vs/
 
 .bin/
+node/ 
 
 .obj/
 .DS_Store
 venv
+img/
+node_modules/**
+!node_modules/axios/
+!node_modules/axios/lib/
+!node_modules/axios/lib/core
+
+#environment
+.env
+env/
+ven/
+ENV/

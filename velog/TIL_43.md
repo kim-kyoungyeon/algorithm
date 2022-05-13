@@ -1,7 +1,3 @@
-\
- 
-### TodayILearn22
-
 ### 학습목표
 
 - [x]  서버가 token 과 auth를 유동적으로 이용하는지 유무
@@ -45,7 +41,13 @@ isAuthorized: (req, res, decoded) => {
 };
 ```
 
+![reidx](../img/redis.png)
+
 1. controller> signout메소드 구현하는 blacklist? redis 코드 (공식문서)활용
+
+ 
+ 
+
 
 ```jsx
 // 1. The server recieves a logout request
@@ -106,6 +108,7 @@ if (!accessTokenData) {
   return res.json({ data: null, message: "not authorized" });
 } else { ///}
 ```
+ 
 
  crl + k + u   → ctrl +/  로 제거되지 않는 주석 제거할수있다.
 
@@ -117,9 +120,11 @@ if (!accessTokenData) {
 
 기존에 찾은 redis, blacklist를 이용한 토큰삭제   → springboot&springsecurity 에서 java를이용시 간단하게 삭제 가능! (redis 가 in-memory db라 refresh token을 발행, 삭제 하는것을 확인
 
-참조 :[https://velog.io/@tlatldms/서버개발캠프-Spring-boot-Spring-security-Refresh-JWT-Redis-JPA-4편-로그인-유지와-로그아웃-처리](https://velog.io/@tlatldms/%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%BA%A0%ED%94%84-Spring-boot-Spring-security-Refresh-JWT-Redis-JPA-4%ED%8E%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9C%A0%EC%A7%80%EC%99%80-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EC%B2%98%EB%A6%AC)
+[https://velog.io/@tlatldms/서버개발캠프-Spring-boot-Spring-security-Refresh-JWT-Redis-JPA-4편-로그인-유지와-로그아웃-처리](https://velog.io/@tlatldms/%EC%84%9C%EB%B2%84%EA%B0%9C%EB%B0%9C%EC%BA%A0%ED%94%84-Spring-boot-Spring-security-Refresh-JWT-Redis-JPA-4%ED%8E%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9C%A0%EC%A7%80%EC%99%80-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EC%B2%98%EB%A6%AC)
 
-![Untitled](sec%203%20-%202%207719fed773aa4f0d8db3dd44ea07ddbb/Untitled.png)
+
+
+
 
 👉redis란?
 
@@ -143,13 +148,13 @@ mysql → `관계형 sql`
 
 참조 : [https://dev.to/mr_cea/using-redis-for-token-blacklisting-in-node-js-42g7](https://dev.to/mr_cea/using-redis-for-token-blacklisting-in-node-js-42g7)
 
-![Untitled](sec%203%20-%202%207719fed773aa4f0d8db3dd44ea07ddbb/Untitled%201.png)
+![reidx](../img/key.png)
 
 👉dbms란?
-
+[참조2](https://m.blog.naver.com/icbanq/221720815999)
 ---
 
-참조: [https://m.blog.naver.com/icbanq/221720815999](https://m.blog.naver.com/icbanq/221720815999)
+
 
 | SQL | noSQL |
 | --- | --- |
@@ -159,4 +164,6 @@ mysql → `관계형 sql`
 | 분산처리 어려움 | 분산처리 쉬움 |
 | ACID | ACID를 완벽히 구현하지 않고 evntual consistency 개념 도입 |
 
-참조 :[https://sjh836.tistory.com/97](https://sjh836.tistory.com/97)
+## 참조
+
+[db](https://sjh836.tistory.com/97)
