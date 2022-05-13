@@ -49,8 +49,6 @@ $ git config --global user.email johndoe@example.com
 - git fetch를 periodically 할건지 묻는 창이 나옴 - > NO 설정
 
 
-
-
 # err 3 크롬에서 velog 안열림 
 
 - 원인 분석 : 찾는중
@@ -76,5 +74,12 @@ status: 이미지 드래그 드롭으론 되지 않는다.
 - 원인분석: img 를 .gitignore 에 설정해서 생긴오류라 판단함
 ~~아니 확장팩 깔아서 잘 했는데 왜!~~
 - 해결 1 : gitignore 해결 후 재 commit 
-- 해결 2 : 
+- 해결 final : 해결완료
+
+# err 6 commit 시 빈메시지 push 안돼나요
+![](../img/0514-2.PNG)
+원인분석: 니가 아무리 엔터처봐라 ..절대 commit 안해줌
+
+해결 1 : 임시방편으로 messages 넣어서 해결.
+
 
