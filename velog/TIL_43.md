@@ -1,3 +1,5 @@
+ 
+
 ### 학습목표
 
 - [x]  서버가 token 과 auth를 유동적으로 이용하는지 유무
@@ -151,9 +153,8 @@ mysql → `관계형 sql`
 ![reidx](../img/key.png)
 
 👉dbms란?
-[참조2](https://m.blog.naver.com/icbanq/221720815999)
----
 
+[참조2](https://m.blog.naver.com/icbanq/221720815999)
 
 
 | SQL | noSQL |
