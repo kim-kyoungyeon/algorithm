@@ -21,8 +21,8 @@
 원인 분석: VSCode 에서 자체적으로 Git을 지원하지 않기 때문에 연동 하려면 다운을 받아야 한다고 한다. 
 [출처](https://kaikaikai.tistory.com/93)
 
-해결 2 : git scm 다운 
-= > git auth 연결 
+해결 final : git scm 다운 
+= > git auth = vs 연결 
 = > source control repositories clone repo 연결 완료
 
 의문점 : 왜 터미널 못쓰냐.. 오히려 불편 
