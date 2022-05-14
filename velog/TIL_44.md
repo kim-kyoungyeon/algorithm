@@ -1,6 +1,6 @@
 # 오래간만의 GOSSIP
 
-## Serious 00 . Intro : Interviewr의 Insight😂
+## Serious 00 . Intro : Interviewer의 Insight😂
 중소기업 / 업력 10년이상 / 전기 /대면 1:3
 - 위치 : 나쁨 (통근 3시간 이상 소요)
 - 난이도 하 
@@ -32,7 +32,7 @@
 
 ---
 
-## Serious 01 . Title : Interviewr의 Insight🤢
+## Serious 01 . Title : Interviewer의 Insight🤢
 중견기업/ 업력 16년차 /전기/ 화상 1:6
 
 - 위치 : 최상 (21분 / 지하철 통근가능 )
