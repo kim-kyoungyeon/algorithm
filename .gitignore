@@ -5,13 +5,13 @@
 node/ 
 
 .obj/
-.DS_Store
+ 
 venv
 node_modules/**
 !node_modules/axios/
 !node_modules/axios/lib/
 !node_modules/axios/lib/core
-
+/기업
 #environment
 .env
 env/
