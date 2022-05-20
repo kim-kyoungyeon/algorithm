@@ -311,8 +311,7 @@ def merge_sort(n):
   mutipart는 document(많은 컴포넌트 부분 (MIME 타입설정 각각 되어잇음 ) ,캡슐화된 많은 파일
   multipart MiME type : 멀티 파일을 이메일에 붙일때 쓴다
 - 결론 : multipart 에 multipart MiME type 포함됌!!!!
-  ~~_
-  죽을거 같다.._~~
+  ~~ 죽을거 같다..\_~~
 
 ex
 
