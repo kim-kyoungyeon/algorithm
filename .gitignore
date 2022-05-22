@@ -5,7 +5,8 @@
 node/ 
 
 .obj/
- 
+Programmers/기업 코테
+Programmers/기업 코테/
 venv
 node_modules/**
 !node_modules/axios/
