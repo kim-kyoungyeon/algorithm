@@ -9,7 +9,10 @@ class Solution {
         // System.out.print(c2);
         // System.out.print(goal);
      
-    for (String g :goal){ // goal Arraylist 요소 수가 5개 이므로 5번 돈다
+// for (i:Array) 원리는 array 배열 변수 안에 값을 하나씩 꺼내서 i에 넣고 {}안의 내용을 실행하는 식입니다.
+// 이방법은 속도도 빠르고 문장도 간결하고 배열뿐 아니라 리스트나 맵으로도 사용할 수 있기때문에 상당히 유용합니다.
+
+     for (String g :goal){ // goal Arraylist 요소 수가 5개 이므로 5번 돈다
            //System.out.print(c1.size());
             System.out.print(goalList);
         // g는 goal array 전체 string 화 됨 = > Iwanttodrinkwater
@@ -35,4 +38,4 @@ class Solution {
         return answer;
         
     }
-}
+}g
