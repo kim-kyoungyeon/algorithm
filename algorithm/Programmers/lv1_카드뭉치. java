@@ -1,0 +1,38 @@
+import java.util.*;
+class Solution {
+    public String solution(String[] cards1, String[] cards2, String[] goal) {
+        String answer = "";
+        ArrayList<String> c1= new ArrayList(Arrays.asList(cards1));
+     ArrayList<String> c2= new ArrayList(Arrays.asList(cards2));
+        ArrayList<String> goalList= new ArrayList(Arrays.asList(goal));
+        // System.out.print(c1);
+        // System.out.print(c2);
+        // System.out.print(goal);
+     
+    for (String g :goal){ // goal Arraylist 요소 수가 5개 이므로 5번 돈다
+           //System.out.print(c1.size());
+            System.out.print(goalList);
+        // g는 goal array 전체 string 화 됨 = > Iwanttodrinkwater
+        // goalList는 [i, want, to, drink, water][want, to, drink, water][want, to, drink, water][want, to, drink, water][to, drink, water]
+        // c1:  I,drink,water-> drink,water ->drink,water->drink,water -> water 순이됨 (32221)
+        // c1.get(0) => I / drink / drink/drink/water
+        
+        if(c1.size()>0 && c1.get(0).equals(g)){
+            // c1.size() 를 통해 객체의 수 리턴 if 조건문때문에 g 와 c1 의 첫번재 요소가 같을경우 제거됨
+            
+            c1.remove(0);
+            goalList.remove(0);       
+        }
+        //같은 알고리즘
+        
+        if(c2.size()>0 && c2.get(0).equals(g)){
+             c2.remove(0);
+             goalList.remove(0);
+                }
+        
+    }    
+        answer = (goalList.size()==0)?"Yes":"No";
+        return answer;
+        
+    }
+}
