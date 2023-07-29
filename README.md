@@ -5,10 +5,10 @@
 Nice ✌ Meet 깐부 ✋  <br>
  
  <h1 align="center"> I'm kimkyoungyeon</h1>
-<h3 align="center">A fearless Full-stack developer from Korea</h3>
+<h3 align="center">A fearless Engineer from Korea</h3>
 
-🌱 I’m currently learning **typescript, NestJS, GraphQL** <br/>
-🔭 I’m currently working on **Nomad-UberEats-Clone-coding-Challenge** <br/>
+🌱 I’m currently learning ** Iac & Orchestration by python,Java, Javascript** <br/>
+🔭 I’m currently working on ** Security Solution ** <br/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kim-kyoungyeon)  
  
@@ -40,8 +40,7 @@ Nice ✌ Meet 깐부 ✋  <br>
 
 <br>
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kim-kyoungyeon)
-
+ 
 </div>
 <br>
 
